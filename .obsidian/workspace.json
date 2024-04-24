@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conteudo/programação/geral/RUNTIME - ambiente de execução.md",
+                "file": "conteudo/programação/geral/Escolhendo um Banco de dados.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"conteudo/programação/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conteudo/programação/geral/RUNTIME - ambiente de execução.md",
+                "file": "conteudo/programação/geral/Escolhendo um Banco de dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conteudo/programação/geral/RUNTIME - ambiente de execução.md",
+                "file": "conteudo/programação/geral/Escolhendo um Banco de dados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conteudo/programação/geral/RUNTIME - ambiente de execução.md"
+                "file": "conteudo/programação/geral/Escolhendo um Banco de dados.md"
               }
             }
           },
@@ -156,9 +157,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "95dfa906ba84961c",
+  "active": "8371d354fcdcd595",
   "lastOpenFiles": [
+    "ORM.md",
+    "conteudo/programação/geral/Escolhendo um Banco de dados.md",
     "conteudo/programação/geral/Porque não existe linguangem Lenta.md",
+    "conteudo/programação/geral/Serverless.md",
+    "conteudo/programação/geral/SQL.md",
+    "conteudo/programação/geral/Docker.md",
+    "recursos/imagens/Pasted image 20240420214102.png",
+    "recursos/imagens/Pasted image 20240420214719.png",
+    "recursos/imagens/Pasted image 20240420214717.png",
+    "recursos/imagens/Pasted image 20240420214705.png",
     "conteudo/programação/geral/RUNTIME - ambiente de execução.md",
     "conteudo/programação/javascript/RUNTIMES JAVASCRIPT.md",
     "conteudo/programação/javascript",
